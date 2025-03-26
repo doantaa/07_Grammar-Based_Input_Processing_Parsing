@@ -1,0 +1,14 @@
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/bin/Debug/net9.0/jurnal_modul7_21104009
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/bin/Debug/net9.0/jurnal_modul7_21104009.deps.json
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/bin/Debug/net9.0/jurnal_modul7_21104009.runtimeconfig.json
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/bin/Debug/net9.0/jurnal_modul7_21104009.dll
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/bin/Debug/net9.0/jurnal_modul7_21104009.pdb
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.AssemblyInfoInputs.cache
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.AssemblyInfo.cs
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.csproj.CoreCompileInputs.cache
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.dll
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/refint/jurnal_modul7_21104009.dll
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.pdb
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/jurnal_modul7_21104009.genruntimeconfig.cache
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/07_Grammar-Based_Input_Processing_Parsing/jurnal_modul7_21104009/obj/Debug/net9.0/ref/jurnal_modul7_21104009.dll

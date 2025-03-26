@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8/xvfS9+dQ=",
+  "success": true,
+  "projectFilePath": "/Users/doanta/Documents/Dev/KPL/tpmodul7_kelompok_4/tpmodul7_kelompok_4.csproj",
+  "expectedPackageFiles": [
+    "/Users/doanta/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

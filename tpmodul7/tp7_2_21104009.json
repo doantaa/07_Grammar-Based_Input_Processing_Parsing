@@ -1,0 +1,13 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CCK4DAA4",
+			"name": "Tugas Akhir"
+		}
+		
+	]
+}
